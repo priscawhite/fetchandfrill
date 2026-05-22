@@ -142,7 +142,7 @@ header {
   width: 50px;
 }
 
-.shop { /* parent */
+.shop { 
   grid-area: shop;
   min-height: 400px;
 }
@@ -213,7 +213,7 @@ header {
   width: 50px;
 }
 
-.team { /* parent */
+.team { 
   grid-area: team;
   min-height: 900px;
 }
@@ -321,7 +321,7 @@ header {
     inset 2px 2px 3px rgb(0 0 0 / 0.6);
 }
 
-.sm-wrapper { /* child item */
+.sm-wrapper {
   height: 80px;
   margin-bottom: 20px;
 }
