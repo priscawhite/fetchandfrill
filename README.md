@@ -23,6 +23,8 @@ Custom styling including:
 ## Fetch & Frill
 Fetch & Frill is a fictional upscale online boutique for dog lovers who appreciate modern style, thoughtful design, and fashionable pet accessories. Founded in Austin, Texas, the brand was created to bring trendy, curated products to pet parents while supporting animal shelters across the United States.
 
+[Visit the site](https://priscawhite.github.io/fetchandfrill/)
+
 ## Features
 * Responsive navigation menu and homepage layout
 * Flexbox-based content sections
