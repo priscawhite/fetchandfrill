@@ -53,7 +53,7 @@
     position: absolute;
     z-index: 1;
     left: 0;
-    top: 110;
+    top: 410;
     filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.8));
 }
 
@@ -85,7 +85,6 @@
 
 /* All cards */
 .card {
-  box-shadow: 0px 0px 0px hsla(0, 0%, 0%, 0.1);
   height: 400px;
   width: 310px;
   padding: 20px;
@@ -106,7 +105,6 @@
 }
 
 .card:hover {
-  box-shadow: 20 20px 20px hsla(0, 0%, 0%, 0.9);
   transform: scale(1.10);
 }
 
