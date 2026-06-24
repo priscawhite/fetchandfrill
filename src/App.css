@@ -1,0 +1,74 @@
+@font-face {
+  font-family: 'Updock';
+  src: url('./assets/fonts/Updock-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Degular';
+  src: url('./assets/fonts/DegularDemo-Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Degular';
+  src: url('./assets/fonts/DegularDemo-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+* {
+  font-family: 'Degular', sans-serif;
+  text-rendering: optimizeLegibility;
+}
+
+.layout-container {
+    background-color: rgb(194, 192, 192);
+    color: #14213dff;
+    font-family: 'Degular', sans-serif;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.layout-inner {
+  max-width: 1126px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.main-content {
+  flex: 1;
+}
+
+button {
+    background-color: rgb(219, 218, 218);
+    color: #14213dff;
+    transition: all 0.5s ease;
+    font-family: "Degular", sans-serif;
+    font-weight: 500;
+    font-size: 1em;
+    border: 1px solid #14213dff;
+    border-radius: 5px;
+    padding: 5px;
+    cursor: pointer;
+    margin-top: 2px;
+}
+
+button:hover {
+  background-color: #14213dff;
+  color: white;
+  transition: all 0.5s ease;
+}
+
+input, textarea {
+    background-color: rgb(20, 33, 61);
+    color: white;
+    font-weight: 500;
+    border: 1px solid #14213dff;
+    border-radius: 5px;
+    padding: 10px;
+}
