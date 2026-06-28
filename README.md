@@ -219,21 +219,6 @@ Folder: /(root)
 
 ---
 
-## Future Enhancements
-
-* Product search
-* Category filtering
-* Wishlist functionality
-* Customer reviews
-* User authentication
-* Stripe payment integration
-* Order history
-* Admin dashboard
-* Product management system
-* Analytics and SEO optimization
-
----
-
 ## Learning Objectives
 
 This project demonstrates proficiency in:
@@ -246,6 +231,21 @@ This project demonstrates proficiency in:
 * Vite build tooling
 * GitHub Pages deployment
 * Modern JavaScript development practices
+
+---
+
+## Future Enhancements
+
+* Product search
+* Category filtering
+* Wishlist functionality
+* Customer reviews
+* User authentication
+* Stripe payment integration
+* Order history
+* Admin dashboard
+* Product management system
+* Analytics and SEO optimization
 
 ---
 
